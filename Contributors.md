@@ -55,6 +55,7 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [andev77](https://github.com/AnDev77)
 - [Sidharth Manikandan](https://github.com/salazangar)
+- [Janhavi Sakhare](https://github.com/janhavi455)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
 - [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
